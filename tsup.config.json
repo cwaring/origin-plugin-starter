@@ -1,0 +1,7 @@
+{
+    "splitting": false,
+    "clean": true,
+    "dts": true,
+    "format": ["esm"],
+    "entryPoints": ["src/index.ts"]
+}
