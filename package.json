@@ -20,6 +20,7 @@
   "homepage": "https://github.com/[user]/[repo]#readme",
   "repository": "github:user/[repo]",
   "keywords": [],
+  "prettier": "@app-research/origin-vue/config/prettier",
   "files": [
     "dist"
   ],
